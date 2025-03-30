@@ -27,3 +27,7 @@ A virtual mouse solution designed for **hands-free interaction**, enabling users
 1. Clone the repository:  
    ```bash  
    git clone https://github.com/vihangaarunalu/EliteVirtualMouse.git
+
+   # EliteVirtualMouse  
+**Vihanga Arunalu**  
+Contact: vihangaarunalu10@gmail.com  
