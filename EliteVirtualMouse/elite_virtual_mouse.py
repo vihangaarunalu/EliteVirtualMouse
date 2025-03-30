@@ -240,3 +240,9 @@ if __name__ == "__main__":
     print("Initializing Elite Virtual Mouse System...")
     mouse = EliteVirtualMouse()
     mouse.run()
+
+
+
+# Copyright (C) 2025 Vihanga Arunalu  
+# Contact: vihangaarunalu10@gmail.com
+# License: GNU GPLv3 (https://www.gnu.org/licenses/gpl-3.0.html)  
